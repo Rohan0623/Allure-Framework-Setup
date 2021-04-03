@@ -1,4 +1,4 @@
-# Setup-Allure-report-in-Local-Machine-and-in-Jenkins
+# Setup Allure-report in Local Machine and in Jenkins
 
 _Add the TestNg dependency and maven plugins in the pom.xml file. The dependencies are mentioned in the file in allure-testng folder_ 
 
