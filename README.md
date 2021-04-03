@@ -1,7 +1,7 @@
 # Setup Allure-report in Local Machine and in Jenkins
 
 
-Versions of Chrome browser, Java, Selenium, TestNG I tried with:
+Versions I tried with:
 
 1. Java 1.8.0_261
 2. Selenium 3.141.59
