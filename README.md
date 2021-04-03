@@ -39,7 +39,7 @@ B) Steps to setup in Jenkins
   4. Build your project. Allure report will be generated for the project.
 
 
-  _Screenshots of setup in Jenkins is added in the screnshots folder_
+  _Screenshots of setup in Jenkins is added in the screenshots folder_
 
 
 
