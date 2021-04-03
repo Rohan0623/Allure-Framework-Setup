@@ -15,7 +15,7 @@ _Add the TestNg dependency and maven plugins in the pom.xml file. The dependenci
 
 A) Steps to setup in Local machine
   
-  1. In the pom.xml file install the allure-testng maven dependency mentioned above.
+  1. In the pom.xml file install the allure-testng maven dependency. 
   2. Install Allure Binary binary file from the https://github.com/allure-framework/allure2/releases into a local machine and unzip it to a particular location.
   3. Set the path for the bin folder in the bashrc or bash_profile in your system command : **export PATH="path_to_bin_folder:$PATH"**
   4. Open the new terminal and type **allure --version** to validate the installation and check the version
